@@ -17,7 +17,7 @@
 Примеры названий и девизов известных библиотек:
 - **requests** - A simple, yet elegant HTTP library.
 - **tqdm** - A Fast, Extensible Progress Bar for Python and CLI
-- **python** -telegram-bot - We have made you a wrapper you can't refuse
+- **python-telegram-bot**  - We have made you a wrapper you can't refuse
 - **redis** – Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
 ## LICENSE
