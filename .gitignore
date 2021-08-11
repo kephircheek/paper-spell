@@ -1,3 +1,6 @@
 clipboard/
 lindsey*
 draft*
+
+# macos
+.DS_Store
